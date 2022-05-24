@@ -1,0 +1,12 @@
+C:\Match-3\Match-3\bin\Debug\Match-3.exe.config
+C:\Match-3\Match-3\bin\Debug\Match-3.exe
+C:\Match-3\Match-3\bin\Debug\Match-3.pdb
+C:\Match-3\Match-3\obj\Debug\Match-3.csproj.AssemblyReference.cache
+C:\Match-3\Match-3\obj\Debug\Match_3.Properties.Resources.resources
+C:\Match-3\Match-3\obj\Debug\Match-3.csproj.GenerateResource.cache
+C:\Match-3\Match-3\obj\Debug\Match-3.csproj.CoreCompileInputs.cache
+C:\Match-3\Match-3\obj\Debug\Match-3.exe
+C:\Match-3\Match-3\obj\Debug\Match-3.pdb
+C:\Match-3\Match-3\obj\Debug\Match_3.Form1.resources
+C:\Match-3\Match-3\obj\Debug\Match_3.StartForm.resources
+C:\Match-3\Match-3\obj\Debug\Match_3.GameOverForm.resources
